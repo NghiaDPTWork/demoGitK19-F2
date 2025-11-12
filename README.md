@@ -2,4 +2,5 @@
 
 <hr>
 
+- HandleA đã edit
 - HandleB đã edit
