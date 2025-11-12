@@ -1,7 +1,5 @@
 # Hello World
 
-<br>
-
 <hr>
 
-- HandleA đã edit
+- HandleB đã edit
